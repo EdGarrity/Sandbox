@@ -1,2 +1,2 @@
 # Sandbox
-Sandbox for playing with Clojure
+Sandbox for playing with GitHub.
